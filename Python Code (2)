@@ -1,0 +1,6 @@
+from microbit import *
+display.scroll(Image.MEH)
+sleep(1000)
+display.show(ImageSILL)
+sleep1500)
+display.show(Image.HAPPY)
