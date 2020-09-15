@@ -1,0 +1,6 @@
+from microbit import *
+display.scroll(I")
+display.show(Image.HEart)
+sleep1000)
+display.scroll("micro:bit!")
+
