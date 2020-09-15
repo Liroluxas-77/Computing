@@ -12,7 +12,7 @@
   Teaching us how to make a good dish,</br>
   With names and terms on the plate,</br>
   Putting nothing else to rebate.</br>
-  You Work Work work so hard</br>
+  You Work Work work so hard till the middle of the night</br>
   For your health, no regard</br>
   Although this doesn't show</br>
   For you're always bright as gold!</br>
